@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "286624397319",
+    "firebase_url": "https://openlive-android-master.firebaseio.com",
+    "project_id": "openlive-android-master",
+    "storage_bucket": "openlive-android-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286624397319:android:0bb14c3cea2475f0",
+        "android_client_info": {
+          "package_name": "io.agora.openlive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286624397319-1u4t42dti2s09tqkgs97fkn9ef5bvgs6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.agora.openlive",
+            "certificate_hash": "235bb67120025381dbacb0af73dc5dac6340ac34"
+          }
+        },
+        {
+          "client_id": "286624397319-lb3tok26rq92abh4q439hlf3u2h7evjf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs-snDuCbkiRow3pQjqhRffyMXkR698go"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286624397319-lb3tok26rq92abh4q439hlf3u2h7evjf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
